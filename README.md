@@ -3,7 +3,8 @@
   <img src="https://media0.giphy.com/media/gjrYDwbjnK8x36xZIO/giphy.gif" width="150" height='150'/>
 </div>
 <h3 align="center">Russel Mueller</h3>
-
+### :man_technologist: About Me :
+I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
 
  <div id="badges" align='center'>
    <a href="https://www.linkedin.com/in/russel-mueller-1aa6b0262/">
