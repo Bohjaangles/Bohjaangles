@@ -2,8 +2,8 @@
 <div id="header" align="center">
   <img src="https://media0.giphy.com/media/gjrYDwbjnK8x36xZIO/giphy.gif" width="150" height='150'/>
 </div>
- <div id="badges">
-  <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" align='center'/>
+ <div id="badges" align='center'>
+  <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" />
 </div>
 <!--
 **Bohjaangles/Bohjaangles** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
