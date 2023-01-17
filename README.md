@@ -1,6 +1,6 @@
 <h1 align="center">Hello, I'm Russel Mueller</h1>
 <div id="header" align="center">
-  <img src="https://media0.giphy.com/media/gjrYDwbjnK8x36xZIO/giphy.gif" width="500" height='300'/>
+  <img src="https://media0.giphy.com/media/gjrYDwbjnK8x36xZIO/giphy.gif" width="150" height='150'/>
 </div>
  
 <!--
