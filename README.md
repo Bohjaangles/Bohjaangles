@@ -1,7 +1,8 @@
-<h1 align="center">Hello, I'm Russel Mueller</h1> 
+
 <div id="header" align="center">
   <img src="https://media0.giphy.com/media/gjrYDwbjnK8x36xZIO/giphy.gif" width="500"/>
 </div>
+<h1 align="center">Hello, I'm Russel Mueller</h1> 
 <!--
 **Bohjaangles/Bohjaangles** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
