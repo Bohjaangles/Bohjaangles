@@ -3,14 +3,23 @@
   <img src="https://media0.giphy.com/media/gjrYDwbjnK8x36xZIO/giphy.gif" width="150" height='150'/>
 </div>
 <h3 align="center">Russel Mueller</h3>
+---
 ### :man_technologist: About Me :
-I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
+I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Canada.
 
- <div id="badges" align='center'>
+- :telescope: ran a multi-city brick and morter business from 2015-2022, transitiioned into web development through Lighthouse labs 2022. In 2023, I am continueing to develop my coding knowledge and skillbase and seeking employment in web or mobile development.
+
+- :seedling: exploring NextJS and TS.
+
+- :zap: In my free time, I code mini projects to delevlop my skillz, or I am climbing. Often climbing.
+
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/russel-mueller-1aa6b0262/)
+
+<!--  <div id="badges" align='center'>
    <a href="https://www.linkedin.com/in/russel-mueller-1aa6b0262/">
      <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" />
    </a>  
-</div>
+</div> -->
 <!--
 **Bohjaangles/Bohjaangles** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
