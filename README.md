@@ -1,4 +1,4 @@
-
+<h1 align="center">Hi 👋, I'm Russel Mueller</h1> 
 
 <div id="header" align="center">
   <img src="https://media0.giphy.com/media/gjrYDwbjnK8x36xZIO/giphy.gif" width="500"/>
