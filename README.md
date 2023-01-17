@@ -13,7 +13,9 @@ I am a Full Stack Developer from Canada.
 
 - :zap: In my free time, I code mini projects to delevlop my skillz, or I am climbing. Often climbing.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/russel-mueller-1aa6b0262/)<a href="">
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/russel-mueller-1aa6b0262/)[![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](https://www.linkedin.com/in/russel-mueller-1aa6b0262/)
+
+<a href="">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 
@@ -24,6 +26,11 @@ I am a Full Stack Developer from Canada.
 </div> -->
 <!--
 **Bohjaangles/Bohjaangles** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+<a href="mailto:jakin.bacon.yang@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
+  </a>
+
 
 Here are some ideas to get you started:
 
