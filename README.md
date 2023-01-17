@@ -3,7 +3,7 @@
   <img src="https://media0.giphy.com/media/gjrYDwbjnK8x36xZIO/giphy.gif" width="150" height='150'/>
 </div>
 <h4>:man_technologist: About Me :</h4>
-I am a Full Stack Developer from Canada. :cn:
+I am a Full Stack Developer from Canada. :CN:
 
 - :telescope: Owned/operated a multi-city brick and morter business from 2015-2022, transitioned into web development through Lighthouse labs 2022. In 2023, I am continueing to develop my coding knowledge and skillbase and seeking employment in web or mobile development.
 
