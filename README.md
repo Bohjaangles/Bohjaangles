@@ -11,13 +11,13 @@ I am a Full Stack Developer from Canada.
 
 - :seedling: exploring NextJS and TS.
 
-- :zap: In my free time, I code mini projects to delevlop my skillz, or I am climbing. Often climbing.
+- :zap: In my free time, I code mini projects to delevlop my coding knowledgebase, or I am climbing. Often climbing.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/russel-mueller-1aa6b0262/)[![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](https://www.linkedin.com/in/russel-mueller-1aa6b0262/)
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/russel-mueller-1aa6b0262/)[![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)]("mailto:bohjaangles@gmail.com")
 
-<a href="">
+<!-- <a href="">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
+  </a> -->
 
 <!--  <div id="badges" align='center'>
    <a href="https://www.linkedin.com/in/russel-mueller-1aa6b0262/">
