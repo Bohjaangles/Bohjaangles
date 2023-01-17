@@ -13,7 +13,7 @@ I am a Full Stack Developer from Canada.
 
 - :zap: In my free time, I code mini projects to delevlop my skillz, or I am climbing. Often climbing.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/russel-mueller-1aa6b0262/)<a href="https://www.linkedin.com/in/jakinyang">
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/russel-mueller-1aa6b0262/)<a href="">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 
