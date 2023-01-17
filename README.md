@@ -3,6 +3,7 @@
   <img src="https://media0.giphy.com/media/gjrYDwbjnK8x36xZIO/giphy.gif" width="150" height='150'/>
 </div>
 <h3 align="center">Russel Mueller</h3>
+<br />
 <h4>:man_technologist: About Me :</h4>
 I am a Full Stack Developer from Canada.
 
