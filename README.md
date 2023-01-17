@@ -2,8 +2,6 @@
 <div id="header" align="center">
   <img src="https://media0.giphy.com/media/gjrYDwbjnK8x36xZIO/giphy.gif" width="150" height='150'/>
 </div>
-<h3 align="center">Russel Mueller</h3>
-<br />
 <h4>:man_technologist: About Me :</h4>
 I am a Full Stack Developer from Canada.
 
@@ -11,7 +9,7 @@ I am a Full Stack Developer from Canada.
 
 - :seedling: exploring NextJS and TS.
 
-- :zap: In my free time, I code mini projects to delevlop my coding knowledgebase, or I am climbing. Often climbing.
+- :zap: In my free time I code mini projects to delevlop my coding knowledgebase, or I am climbing. Often climbing.
 
 - :mailbox:How to reach me: 
 <div> 
