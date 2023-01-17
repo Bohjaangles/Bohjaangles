@@ -2,6 +2,9 @@
 <div id="header" align="center">
   <img src="https://media0.giphy.com/media/gjrYDwbjnK8x36xZIO/giphy.gif" width="150" height='150'/>
 </div>
+<h3 align="center">Russel Mueller</h3>
+
+
  <div id="badges" align='center'>
    <a href="https://www.linkedin.com/in/russel-mueller-1aa6b0262/">
      <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" />
