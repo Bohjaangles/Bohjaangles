@@ -9,7 +9,7 @@ I am a Full Stack Developer from Canada.
 
 - :seedling: exploring NextJS and TS.
 
-- :zap: In my free time I code mini projects to delevlop my coding knowledgebase, or I am climbing. Often climbing.
+- :zap: In my free time I code personal mini projects to delevlop my coding knowledgebase/learn new tools, or I am climbing. Often climbing.
 
 - :mailbox:How to reach me: 
 <div> 
