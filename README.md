@@ -13,8 +13,15 @@ I am a Full Stack Developer from Canada.
 
 - :zap: In my free time, I code mini projects to delevlop my coding knowledgebase, or I am climbing. Often climbing.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/russel-mueller-1aa6b0262/)[![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)]("mailto:bohjaangles@gmail.com")
-
+- :mailbox:How to reach me: 
+<div> 
+ <a href="https://www.linkedin.com/in/russel-mueller-1aa6b0262/">
+     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" />
+   </a> 
+  <a href="mailto:bohjaangles@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
+  </a>
+</div>
 <!-- <a href="">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a> -->
