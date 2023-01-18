@@ -11,9 +11,9 @@ Full Stack Developer from Canada.
 
 - :zap: In my free time I code personal mini projects to delevlop my coding knowledgebase/learn new tools, or I am climbing. Often climbing.
 
-
-:point_down::mailbox:How to reach me:mailbox::point_down: 
- <div slign="left>
+<div align="left>
+<h5>:point_down::mailbox:How to reach me:mailbox::point_down:</h5> 
+ 
  <a href="https://www.linkedin.com/in/russel-mueller-1aa6b0262/">
      <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" />
    </a> 
