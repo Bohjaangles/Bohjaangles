@@ -29,11 +29,10 @@ Full Stack Developer from Canada.
   
                                      
   <h4 align="center"> Github contribution stats </h4>
-<p align="center">
-    <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Bohjaangles"/></a>
-</p>
- 
-  
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=Bohjaangles&theme=dark" />
+    <img src="https://streak-stats.demolab.com?user=DenverCoder1&theme=default" />
+</picture>
   
   
   
@@ -51,6 +50,11 @@ Full Stack Developer from Canada.
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
   </a>
 
+  
+  <p align="center">
+    <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Bohjaangles"/></a>
+</p>
+ 
 
 Here are some ideas to get you started:
 
