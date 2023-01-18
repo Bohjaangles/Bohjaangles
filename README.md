@@ -36,7 +36,7 @@ Full Stack Developer from Canada.
 ---
   
   <div align="center">                                   
-  <h4> Github contribution stats </h4>
+  <h4> Github contribution stats: </h4>
   <picture >
     <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=Bohjaangles&theme=dark" />
     <img src="https://streak-stats.demolab.com?user=Bohjaangles&theme=dark" />
