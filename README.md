@@ -34,7 +34,7 @@ Full Stack Developer from Canada.
     <img src="https://streak-stats.demolab.com?user=Bohjaangles&theme=dark" />
 </picture>
   </div>
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bohjaangles)](https://github.com/anuraghazra/github-readme-stats)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bohjaangles)](https://github.com/Bohjaangles/github-readme-stats)
   
   
   
