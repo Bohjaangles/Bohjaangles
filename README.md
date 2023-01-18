@@ -46,8 +46,10 @@ Full Stack Developer from Canada.
   
   ---
   
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bohjaangles&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
   
+  <picture>
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bohjaangles&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+  </picture>
   
   
   
