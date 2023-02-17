@@ -8,7 +8,7 @@
 <h4>:man_technologist: About Me :</h4>
 Full Stack Developer from Canada.
 
-- :telescope: Owned/operated a multi-city brick and morter business from 2015-2022, transitioned into web development through Lighthouse labs 2022. In 2023, I am continueing to develop my coding knowledge and skillbase and seeking employment in web or mobile development.
+- :telescope: Owned/operated a multi-city spa and wellness business from 2015-2022, transitioned into web development through Lighthouse labs 2022. In 2023, I am continueing to develop my coding knowledge and skillbase and seeking employment in web or mobile development.
 
 - :seedling: exploring ThreeJS currently and interested in picking up Java and TS.
 
