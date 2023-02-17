@@ -10,7 +10,7 @@ Full Stack Developer from Canada.
 
 - :telescope: Owned/operated a multi-city brick and morter business from 2015-2022, transitioned into web development through Lighthouse labs 2022. In 2023, I am continueing to develop my coding knowledge and skillbase and seeking employment in web or mobile development.
 
-- :seedling: exploring ThreeJS currently and interested in picking up NextJS and TS.
+- :seedling: exploring ThreeJS currently and interested in picking up Java and TS.
 
 - :zap: In my free time I code personal mini projects to delevlop my coding knowledgebase/learn new tools, or I am climbing. Often climbing.
 
