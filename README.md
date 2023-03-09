@@ -10,7 +10,7 @@ Full Stack Developer from Canada.
 
 - :telescope: Owned/operated a multi-city spa and wellness business from 2015-2022, transitioned into web development through Lighthouse labs 2022. In 2023, I am continueing to develop my coding knowledge and skillbase and seeking employment in web or mobile development.
 
-- :seedling: recently spent some time exploring threejs. Even more recently picked up TS, and dabbled with Angular. Currently diving deep into using unity and C#.
+- :seedling: recently spent some time exploring threejs. Even more recently picked up TS, and quickly looked at Angular. Currently diving deep into using unity and C#.
 
 - :zap: In my free time I code personal mini projects to delevlop my coding knowledgebase/learn new tools, or I am climbing. Often climbing.
 
