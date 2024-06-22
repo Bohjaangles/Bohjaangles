@@ -6,13 +6,14 @@
 ---
 
 <h4>:man_technologist: About Me :</h4>
-Full Stack Developer from Canada.
+Full Stack Developer from Canada. 
+Working fulltime for Luxsonic since may 2023
 
-- :telescope: Owned/operated a multi-city spa and wellness business from 2015-2022, transitioned into web development through Lighthouse labs 2022. In 2023, I am continueing to develop my coding knowledge and skillbase and seeking employment in web or mobile development.
+- :telescope: Owned/operated a multi-city spa and wellness business from 2015-2022, transitioned into web development through Lighthouse labs 2022. In 2023, I am continueing to develop my coding knowledge and skillbase. Currently working on a web based resource management game.
 
-- :seedling: recently spent some time exploring threejs. Even more recently picked up TS, and quickly looked at Angular. Currently diving deep into using unity and C#.
+- :seedling: currently playing with blazor and .net web development on my free time when not working on my react/ts browser game.
 
-- :zap: In my free time I code personal mini projects to delevlop my coding knowledgebase/learn new tools, or I am climbing. Often climbing.
+- :zap: In my free time I am climbing, spending time with family, or thiking about where to travel. Often climbing.
 
 
 <h5>:point_down::mailbox:How to reach me:mailbox::point_down:</h5> 
