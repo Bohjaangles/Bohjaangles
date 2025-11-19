@@ -68,7 +68,6 @@ Working fulltime for Luxsonic since may 2023
   <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> </p> -->
 <div align="center">
 | 🟨 JavaScript | 🟦 TypeScript | ☕ Java |
-|--------------|--------------|--------|
 | 🍃 Spring Boot | 🐳 Docker | 🟩 Node.js |
 | ⚛️ React | 🎨 Tailwind | 🖥️ Bash |
 | 🐧 Linux | ☁️ AWS | 🌥️ GCP |
