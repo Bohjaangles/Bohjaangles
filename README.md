@@ -11,9 +11,9 @@ Working fulltime for Luxsonic since may 2023
 
 - :telescope: Owned/operated a multi-city spa and wellness business from 2015-2022, transitioned into web development through Lighthouse labs 2022. In 2023, I am continueing to develop my coding knowledge and skillbase. Currently working on a web based resource management game.
 
-- :seedling: currently playing with blazor and .net web development on my free time when not working on my react/ts browser game.
+- :seedling: currently making simple mobile apps and a side project with some friends on my free time - developmenet wise.
 
-- :zap: In my free time I am climbing, spending time with family, or thiking about where to travel. Often climbing.
+- :zap: In my other free time I am climbing, spending time with family, or being too busy with whatever I've picked up lately. Often climbing.
 
 
 <h5>:point_down::mailbox:How to reach me:mailbox::point_down:</h5> 
