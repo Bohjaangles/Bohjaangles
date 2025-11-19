@@ -30,7 +30,7 @@ Working fulltime for Luxsonic since may 2023
 ---
 
 <h4 align="center">:hammer_and_wrench:Languages and Tools:</h4>  
-<p align="center"> 
+<!-- <p align="center"> 
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
   <img
         src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg"
@@ -65,7 +65,14 @@ Working fulltime for Luxsonic since may 2023
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> 
   <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> 
   <a href="https://www.ruby-lang.org/en/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="ruby" width="40" height="40"/> </a> 
-  <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> </p>
+  <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> </p> -->
+
+| 🟨 JavaScript | 🟦 TypeScript | ☕ Java |
+|--------------|--------------|--------|
+| 🍃 Spring Boot | 🐳 Docker | 🟩 Node.js |
+| ⚛️ React | 🎨 Tailwind | 🖥️ Bash |
+| 🐧 Linux | ☁️ AWS | 🌥️ GCP |
+| 🔧 Git | 🗄️ SQL / No-SQL |        |
 
 <br />
 
